@@ -63,7 +63,7 @@ public class MenuAppTela extends JFrame implements ActionListener {
 
         sair = criarItem("Quitter", 'Q', encerrar);
 
-        setTitle("Projet CRUD PI -2");
+        setTitle("Gestion des ecole privte ");
         setSize(550, 300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
